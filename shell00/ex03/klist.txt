@@ -1,0 +1,5 @@
+Credentials cache: API:BFD7B3ED-4940-45C7-8BFF-E753709428C2
+        Principal: aidouiss@1337.MA
+
+  Issued                Expires               Principal
+Aug 18 15:09:45 2021  Aug 19 01:09:45 2021  krbtgt/1337.MA@1337.MA
